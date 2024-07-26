@@ -1,8 +1,0 @@
-2024-06-29 19:38:21 [INFO] ############## TEST FOR GET '/GISTS' AND TO VALIDATE AUTHORIZATION FOR FURTHER TESTING  ###############  (test_github_gists.py:44)
-2024-06-29 19:38:21 [INFO] Creating Gists: 10 (gist_page.py:23)
-2024-06-29 19:38:29 [INFO] Created 10 user gists successfully! (gist_page.py:29)
-2024-06-29 19:38:30 [INFO] Response recieved successfully - 200
-
- (test_github_gists.py:52)
-2024-06-29 19:38:31 [INFO] Deleting the Gists ... (gist_page.py:51)
-2024-06-29 19:38:36 [INFO] Data clean up done!! (gist_page.py:61)
