@@ -1,0 +1,11 @@
+{
+  "gist_data": {
+    "description": "Test Gist",
+    "public": true,
+    "files": {
+      "test.txt": {
+        "content": "Test content"
+      }
+    }
+  }
+}
